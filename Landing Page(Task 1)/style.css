@@ -59,7 +59,7 @@ body{
 }
 
 .wcu-section-heading {
-  color: #183b56;
+  color: firebrick;
   font-family: "Roboto";
   font-size: 28px;
   font-weight: 700;
@@ -81,7 +81,7 @@ body{
   height: 90px;
 }
 .wcu-card-title {
-  color: #323f4b;
+  color: firebrick;
   font-family: "Roboto";
   font-size: 22px;
   font-weight: 500;
@@ -92,12 +92,12 @@ body{
   font-size: 16px;
 }
 .offers {
-  color: #323f4b;
+  color: firebrick;
   font-style: italic;
   font-weight: 600;
 }
 .menu-section-heading {
-  color: #183b56;
+  color: firebrick;
   font-family: "Roboto";
   font-size: 28px;
   font-weight: 700;
@@ -106,14 +106,14 @@ body{
   border-radius: 16px;
 }
 .menu-card-title {
-  color: #323f4b;
+  color: firebrick;
   font-family: "Roboto";
   font-size: 18px;
   font-weight: 500;
   margin-top: 24px;
 }
 .menu-item-link {
-  color: #d0b200;
+  color:rgb(199, 135, 135);
   font-family: "Roboto";
   font-size: 14px;
   font-weight: 500;
@@ -126,7 +126,7 @@ body{
   width: 180px;
 }
 .healthy-food-section-heading {
-  color: #183b56;
+  color: firebrick;
   font-family: "Roboto";
   font-size: 28px;
   font-weight: 700;
@@ -141,7 +141,7 @@ body{
   width: 270px;
 }
 .delivery-and-payment-section-heading {
-  color: #183b56;
+  color:firebrick;
   font-family: "Roboto";
   font-size: 28px;
   font-weight: 700;
@@ -156,7 +156,7 @@ body{
 
 
 #footer{
-  background-color: #62849e;
+  background-color: rgb(160, 100, 100);
   text-align: center;
   padding: 7% 15%;
 }
